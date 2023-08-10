@@ -24,6 +24,9 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
+## Pairing
+Press the hidden side button of the device with a paper clip for more than 2 seconds. The main button led will flash rapidly. Then make sure the device is awake during pairing phase or the configuration may fail. To ensure device is awake press the hidden side button every 2 seconds until configuration is done in Zigbee2MQTT logs.
+
 
 <!-- Notes END: Do not edit below this line -->
 
